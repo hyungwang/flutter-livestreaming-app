@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "512130628612",
+    "firebase_url": "https://livestream-70954.firebaseio.com",
+    "project_id": "livestream-70954",
+    "storage_bucket": "livestream-70954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512130628612:android:ac0a123f1b4cee040f4951",
+        "android_client_info": {
+          "package_name": "com.example.agora_livestream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512130628612-pu601m4s9c36d5o56d2gf4diborhkb45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agora_livestream",
+            "certificate_hash": "466a91321de6dcf3e394fd89a3779eb3c587cb1c"
+          }
+        },
+        {
+          "client_id": "512130628612-mt4aaknapb8fnif9bkgc1ubeov3rft51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWPdweulZ9nmUtDZ1-lejQK41B3V6XpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512130628612-mt4aaknapb8fnif9bkgc1ubeov3rft51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
